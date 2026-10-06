@@ -98,6 +98,6 @@ I build **AI systems that survive real enterprise conditions, not just lab demos
 
 [![Email](https://img.shields.io/badge/Email-szubair1833@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:szubair1833@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Zubair-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zubair-unb)
-[![GitHub](https://img.shields.io/badge/szubairmaqsood?style=flat-square&logo=github&logoColor=white)](https://github.com/szubairmaqsood)
+[![GitHub](https://img.shields.io/badge/GitHub-szubairmaqsood-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/szubairmaqsood)
 
 ---
